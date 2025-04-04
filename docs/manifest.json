@@ -1,0 +1,15 @@
+{
+  "name": "Скородум ",
+  "short_name": "Скородум ",
+  "start_url": "/skorodum_bot_doc/",
+  "scope": "/skorodum_bot_doc/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/skorodum_bot_doc/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

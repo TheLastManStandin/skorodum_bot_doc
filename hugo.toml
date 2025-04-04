@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://TheLastManStandin.github.io/skorodum_bot_doc'
 languageCode = 'en-us'
 title = 'Скородум '
 theme = 'hugo-book'
+publishDir = "docs"
