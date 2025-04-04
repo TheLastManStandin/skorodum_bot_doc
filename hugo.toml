@@ -1,4 +1,4 @@
-baseURL = 'https://TheLastManStandin.github.io/skorodum_bot_doc'
+baseURL = 'https://thelastmanstandin.github.io/skorodum_bot_doc'
 languageCode = 'en-us'
 title = 'Скородум '
 theme = 'hugo-book'
