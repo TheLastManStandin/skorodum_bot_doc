@@ -5,9 +5,9 @@ weight: 1
 # Управление Кампаниями
 
 - **Добавление кампании**: Администратор может создать кампанию, указав название, дату проведения и описание.
-![Картинка](/static/images/campaigns_pics/1.png)
-![Картинка](/static/images/campaigns_pics/2.png)
-![Картинка](/static/images/campaigns_pics/3.png)
+![Картинка](images/campaigns_pics/1.png)
+![Картинка](/images/campaigns_pics/2.png)
+![Картинка](static/images/campaigns_pics/3.png)
 ![Картинка](/static/images/campaigns_pics/4.png)
 ![Картинка](/static/images/campaigns_pics/5.png)
 - **Удаление кампании**: При удалении кампании запись в базе данных деактивируется, однако информация о кампании сохраняется для исторического учета.

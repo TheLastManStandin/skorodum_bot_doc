@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/companys/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/companys/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/parents/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/parents/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/admins/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/admins/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/programs/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/programs/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/schedule/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/schedule/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/table-of-contents/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/table-of-contents/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/example/hidden/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/example/hidden/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/categories/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/categories/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/docs/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/docs/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/</loc>
   </url><url>
-    <loc>https://thelastmanstandin.github.io/skorodum_bot_doc/tags/</loc>
+    <loc>http://localhost:1313/skorodum_bot_doc/tags/</loc>
   </url>
 </urlset>
